@@ -14,10 +14,16 @@
         
 ![Fixed Mindset Vs Growth Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
+> “There are no shortcuts to excellence.”
+  - Angela Duckworth
+
 # For me, I grow myself every day:
   - Read and search for new subjects.
   - Stay away from negative people 
   - Learn from successful people 
+
+> Many limitations exist only in your mind.” 
+  - Francis Shenstone
 
 # Who I'm I?
 **I'm *Nour Eddein Al Abbassi.* I'm 27 years old, I graduated from Alal-Bayt University as a civil engineer.Why I'm excited about this class? because I tried several times to learn to code like HTML, CSS, and Python but I didn't have a good chance to learn it coding in a good way**
