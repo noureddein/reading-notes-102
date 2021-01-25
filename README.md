@@ -1,4 +1,3 @@
-## reading-notes
 # Definitions of Growth and Fixed Mindset:
 
 ## **Growth Mindset** : *Basically he is the person who love to learn.*
