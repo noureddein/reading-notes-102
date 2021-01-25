@@ -5,12 +5,12 @@
 
 
 # So Anyone Want to be a growth mindset and improve himself he want to take :
-###        1-Challenges 
-###        2-Obstacls
-###        3-Effort
-###        4-Accept Criticism
-###        5-learn from successful people 
-###        6-Growing at work and outside work 
+  1. Challenges 
+  2. Obstacls
+  3. Effort
+  4. Accept Criticism
+  5. learn from successful people 
+  6. Growing at work and outside work 
         
 ![Fixed Mindset Vs Growth Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
