@@ -3,5 +3,5 @@
 
 Git | GitHub
 --- | ------
-Git is a cloud storage help's you to save your works on cloud storage, and it allows you or your team to work on these files and upload the files to storage, and sorting these files by versions. \ So, Git called Distributed Version Control System (DVCS). | GitHub is a website that provides you us Git storage to u
+Git is a cloud storage help's you to save your works on cloud storage, and it allows you or your team to work on these files and upload the files to storage, and sorting these files by versions.  So, Git called Distributed Version Control System (DVCS). | GitHub is a website that provides you us Git storage to u
 
