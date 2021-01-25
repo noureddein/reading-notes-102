@@ -26,4 +26,4 @@
   - [Facebook](https://www.facebook.com/noureddein1/) :yellow_heart: :blue_heart:
   - [Instagram](https://www.instagram.com/noureddein1/) :yellow_heart: :blue_heart:
 
-* This page on [GitHub](reading-notes/../git-vs-github.md) ,to know more about GitHub click on the link.
+## * This page on [GitHub](reading-notes/../git-vs-github.md) ,to know more about GitHub click on the link.
