@@ -21,5 +21,4 @@
 ####     3-	Learn from successful people 
 
 # Who I'm I?
-        **I'm _Nour_ _Eddein_ _Al Abbassi_ . I'm 27 years old, I graduated from Al** **al-Bayt University as a civil engineer.**
-        Why I'm excited about this class? because I tried several times to learn to code like HTML, CSS, and Python but I didn't have a good chance to learn it coding in a good way**
+**I'm *Nour Eddein Al Abbassi.* I'm 27 years old, I graduated from Alal-Bayt University as a civil engineer.Why I'm excited about this class? because I tried several times to learn to code like HTML, CSS, and Python but I didn't have a good chance to learn it coding in a good way**
