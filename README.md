@@ -15,9 +15,9 @@
 ![Fixed Mindset Vs Growth Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
 # For me, I grow myself every day:
-####     1-	Read and search for new subjects.
-####     2-	Stay away from negative people 
-####     3-	Learn from successful people 
+  - 1-	Read and search for new subjects.
+  - 2-	Stay away from negative people 
+  - 3  -Learn from successful people 
 
 # Who I'm I?
 **I'm *Nour Eddein Al Abbassi.* I'm 27 years old, I graduated from Alal-Bayt University as a civil engineer.Why I'm excited about this class? because I tried several times to learn to code like HTML, CSS, and Python but I didn't have a good chance to learn it coding in a good way**
