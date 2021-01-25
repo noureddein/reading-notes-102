@@ -23,4 +23,7 @@
 **I'm *Nour Eddein Al Abbassi.* I'm 27 years old, I graduated from Alal-Bayt University as a civil engineer.Why I'm excited about this class? because I tried several times to learn to code like HTML, CSS, and Python but I didn't have a good chance to learn it coding in a good way**
 
 - You can Follow me on:
-  - [Facebook](https://www.facebook.com/noureddein1/):yellow_heart::blue_heart:
+  - [Facebook](https://www.facebook.com/noureddein1/) :yellow_heart: :blue_heart:
+  - [Instagram](https://www.instagram.com/noureddein1/) :yellow_heart: :blue_heart:
+
+* This page on *[GitHub]*(http://github.com) ,to know more about GitHub click to the link.
