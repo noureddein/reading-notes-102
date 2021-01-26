@@ -50,4 +50,5 @@ which other pages can be displayed.
 information about your web page.
  * Escape characters are used to include special
 characters in your pages such as <, >, and ©.
+![This image sgow us how to creat symbols](https://github.com/noureddein/reading-notes/blob/main/html-css/syambol.png?raw=true)
 ---------
