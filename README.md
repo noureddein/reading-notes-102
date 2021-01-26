@@ -33,3 +33,10 @@
   - [Instagram](https://www.instagram.com/noureddein1/) :yellow_heart: :blue_heart:
 
 ## * This page created by [GitHub](reading-notes/../git-vs-github.md) ,to know more about GitHub click on the link.
+### Helpful Links
+
+Read | Links
+--- | ------
+Markdown Syntax| [Link1](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
+Growth Mindset| [Link2](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
+Gitting started</br> with GitHub| [Link3](https://guides.github.com/features/pages/)
