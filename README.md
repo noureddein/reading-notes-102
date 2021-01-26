@@ -40,4 +40,4 @@ Read | Links
 Markdown Syntax| [Link1](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) 
 Growth Mindset| [Link2](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
 Gitting started </br> with GitHub| [Link3](https://guides.github.com/features/pages/)
-<hr>
+
