@@ -65,6 +65,7 @@
   - 3 ARITHMETIC OPERATORS Ex. (area = 3 * 2)
   - 4 LOGICAL OPERATORS Ex. (buy= (5 > 3) && (2 < 4) )
   - 5 STRING OPERATORS Ex. ( greeting =  'Hi 1 + 'Molly' )
+</br>
 ![Arithmetic Operators](https://github.com/noureddein/reading-notes/blob/main/arithmatic-operators.png?raw=true)
 
 
