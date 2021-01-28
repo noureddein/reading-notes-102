@@ -11,18 +11,23 @@ Evaluating conditions  -->
 
 ## Types of logical operators:
   - 1-	&& Logical **AND**
+
 | AND | T | F |
 | --- | - | - |
 |T    |T  |F  |
 |F    |F  |F  |
+
   - 2- || Logical **OR**
+
 | OR | T | F |
 | --- | - | - |
 |T    |T  |T  |
 |F    |T  |F  |
-Table
+
   - 3-	! Logical **NOT**
+------------------------
 > **_Logical expressions are evaluated left to right._**
+------------------------
 # Loops
 ### Loops check conditions. If it returns true , acode block will run. Then the condition will be checked again and if it returns true,the code block will run again. It repeats until the condition returns false.
 
@@ -38,6 +43,8 @@ Table
   - 1- Initialization
   - 2-	Condition
   - 3-	Update 
+
+![For Loop Description](https://github.com/noureddein/reading-notes/blob/main/for.png?raw=true)
 
 
 
