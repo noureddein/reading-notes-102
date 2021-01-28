@@ -3,19 +3,19 @@ and logical operators
 Evaluating conditions  -->
 # comparison Operators:
 ###  Comparison operators usually return single values of **true** or **false**.
-![Comparison Operators](comparison.png)
+![Comparison Operators](https://github.com/noureddein/reading-notes/blob/main/comparison.png?raw=true)
 # Logical operators
 ### Logical operators allow you to compare the results of more than one comparison operators.
-![CLogical operators](logical operators.png)
+![Logical operators](https://github.com/noureddein/reading-notes/blob/main/logical%20operators.png?raw=true)
 
 
 ## Types of logical operators:
   - 1-	&& Logical **AND**
-</br>
+
 | AND | T | F |
-|:---:|:-:|:-:|
-| T | T | F |
-| F | F | F |
+| --- | - | - |
+|T    |T  |F  |
+|F    |F  |F  |
 
   - 2- || Logical **OR**
 Table
