@@ -10,14 +10,16 @@ Evaluating conditions  -->
 
 
 ## Types of logical operators:
-  - 1-	&& Logical AND
+  - 1-	&& Logical **AND**
+</br>
 | AND | T | F |
 |:---:|:-:|:-:|
 | T | T | F |
 | F | F | F |
-  - 2- || Logical OR
+
+  - 2- || Logical **OR**
 Table
-  - 3-	! Logical NOT
+  - 3-	! Logical **NOT**
 > **_Logical expressions are evaluated left to right._**
 # Loops
 ### Loops check conditions. If it returns true , acode block will run.
