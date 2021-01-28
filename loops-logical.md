@@ -11,10 +11,10 @@ Evaluating conditions  -->
 
 ## Types of logical operators:
   - 1-	&& Logical AND
-AND | T | F 
---- | - | - 
-T | T | F 
-F | F | F
+| AND | T | F |
+|-----|---|---|
+| T | T | F |
+| F | F | F |
   - 2- || Logical OR
 Table
   - 3-	! Logical NOT
