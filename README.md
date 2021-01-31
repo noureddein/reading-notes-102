@@ -9,4 +9,4 @@ HTML-CSS Summry | [Link3](reading-notes/../html-css-book-summary.md)
 JavaScript Summary | [Link3](reading-notes/../js-summary-read04.md)
 Operators and Loops | [link4](reading-notes/../loops-logical.md)
 
-</br>
+
