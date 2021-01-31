@@ -45,6 +45,12 @@
 
 ### The CSS3 **RGBa** property allows you to specify a color, just like you would with an RGB value, but adds **a** fourth value to indicate _opacity_. This value is known as an **_alpha-** value and is a number between 0.0 and 1.0 (so a value of 0.5 is 50% opacity and 0.15 is 15% opacity). The rgba value will only affect the element on which it is applied (not child elements).
 
+### Margin, Padding, and Border
+![Margin and Padding](https://github.com/noureddein/reading-notes/blob/main/imgs/Paddin%20and%20margin.png?raw=true)
+
+### How to add styling to elements
+![Add Properties](https://github.com/noureddein/reading-notes/blob/main/imgs/properteis%20and%20valuse.png?raw=true)
+
 ## Summary 
   - 1-Color not only brings your site to life, but also helps convey the mood and evokes reactions.
   - 2-There are three ways to specify colors in CSS: RGB values, hex codes, and color names.
@@ -52,4 +58,6 @@
   - 4-It is important to ensure that there is enough contrast between any text and the background color (otherwise people will not be able to read your content).
   - 5-CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
   - 6-CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
+
+
 
